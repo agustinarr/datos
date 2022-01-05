@@ -1,7 +1,22 @@
 h1 {
-    color: red;
-    font-size: 5em;
-    font-family: arial;
-    text-align: center; }
+    color: steelblue;
+    font-size: 4em;
+   font-family: 'Poppins', sans-serif;
+    text-align: center;
+    border: 10px solid sandybrown;
+   border-radius: 0.5em;
+    border-top-right-radius: 10% %;
+   }
 p {
-    color: blue; }
+    color: darkgrey;
+ font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 0.95em; }
+
+h2 {
+    color: sandybrown;
+    font-size: 2em;
+   font-family: 'Poppins', sans-serif;
+    text-align: center;
+     }
+
